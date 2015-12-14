@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link type="text/css" rel="stylesheet" href="css/bootstrap.css"/>
+</head>
+<body>
+<form class="well">
+
+</form>
+<script src="js/bootstrap.js"></script>
+<script src="js/jquery.js"></script>
+
+
+
+</body>
+</html>
